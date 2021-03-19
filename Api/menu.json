@@ -1,44 +1,38 @@
 [
   {
-    "title": "Materi Keperawatan",
-    "subtitle": "Berisi materi-materi pembelajaran tentang Keperawatan.",
-    "illustration": "https://firebasestorage.googleapis.com/v0/b/materi-keperawatan.appspot.com/o/data%2Fmenu%2Ficon-materi.png?alt=media&token=98a2ae3e-7846-4c3a-bbc8-7df490f69b73",
+    "title": "Materi Farmasi",
+    "subtitle": "Berisi materi-materi pembelajaran tentang Farmasi.",
+    "illustration": "https://firebasestorage.googleapis.com/v0/b/materi-farmasi.appspot.com/o/data%2Fmenu%2FAsset%202mdpi.png?alt=media&token=e989865f-13bd-4c8f-8fe0-784b2193042a",
     "page": "MateriKeperawatan"
-  },
-  {
-    "title": "Tips & Trik Uji Kompetensi",
-    "subtitle": "Berisi kumpulan video tips dan trik dalam Uji Kompetensi keperawatan.",
-    "illustration": "https://firebasestorage.googleapis.com/v0/b/materi-keperawatan.appspot.com/o/data%2Fmenu%2Ficon-tip.png?alt=media&token=44c6a199-1f22-4ef3-b8a1-6e2c789b0bd4",
-    "page": "Tips"
   },
   {
     "title": "Daftar Obat",
     "subtitle": "Berisi kumpulan Obat.",
-    "illustration": "https://firebasestorage.googleapis.com/v0/b/materi-keperawatan.appspot.com/o/data%2Fmenu%2Ficon-obat.png?alt=media&token=c5e4b50c-927a-4ce5-8a18-c492e7ff3727",
+    "illustration": "https://firebasestorage.googleapis.com/v0/b/materi-farmasi.appspot.com/o/data%2Fmenu%2FAsset%208mdpi.png?alt=media&token=c474a8fc-8139-4855-9335-b33fe7d8467d",
     "page": "ObatKeperawatan"
   },
   {
-    "title": "S.O.P Keperawatan",
-    "subtitle": "Berisi kumpulan video S.O.P tentang Keperawatan.",
+    "title": "Video Tutorial",
+    "subtitle": "Berisi kumpulan video tutorial tentang Farmasi.",
     "illustration": "https://firebasestorage.googleapis.com/v0/b/materi-keperawatan.appspot.com/o/data%2Fmenu%2Ficon-sop.png?alt=media&token=68a187fb-d491-4c64-b31c-38e2c4352f54",
     "page": "SOP"
   },
   {
     "title": "Jurnal Keperawatan",
-    "subtitle": "Berisi kumpulan jurnal keperawatan.",
-    "illustration": "https://firebasestorage.googleapis.com/v0/b/materi-keperawatan.appspot.com/o/data%2Fmenu%2Ficon-jurnal.png?alt=media&token=93cceac5-7f28-4d81-bf04-1c1d7ff82822",
+    "subtitle": "Berisi kumpulan jurnal Farmasi.",
+    "illustration": "https://firebasestorage.googleapis.com/v0/b/materi-farmasi.appspot.com/o/data%2Fmenu%2FAsset%206mdpi.png?alt=media&token=f4815ed4-4c08-4431-a42d-028abd8c43db",
     "page": "JurnalKeperawatan"
   },
   {
     "title": "Kamus Kesehatan",
     "subtitle": "Berisi istilah dan bahasa yang dipakai pada bidang kesehatan.",
-    "illustration": "https://firebasestorage.googleapis.com/v0/b/materi-keperawatan.appspot.com/o/data%2Fmenu%2Ficon-ebook.png?alt=media&token=f35a6aeb-3b36-4611-b283-cac88b625878",
+    "illustration": "https://firebasestorage.googleapis.com/v0/b/materi-farmasi.appspot.com/o/data%2Fmenu%2FAsset%209mdpi.png?alt=media&token=3eefd46a-0a68-4f17-9b5e-7180bfd83486",
     "page": "KamusKesehatan"
   },
   {
     "title": "Tim Penyusun",
-    "subtitle": "Daftar profil tim penyusun dalam materi keperawatan.",
-    "illustration": "https://firebasestorage.googleapis.com/v0/b/materi-keperawatan.appspot.com/o/data%2Fmenu%2Ficon-tim.png?alt=media&token=f6f2f7c1-a1ea-4de0-9a5e-ee4d8f2e939d",
+    "subtitle": "Daftar profil tim penyusun dalam materi farmasi.",
+    "illustration": "https://firebasestorage.googleapis.com/v0/b/materi-farmasi.appspot.com/o/data%2Fmenu%2FAsset%205mdpi.png?alt=media&token=fd64178a-861a-4416-8383-9d2ef7dab6cc",
     "page": "PenyusunKeperawatan"
   }
 ]
